@@ -3,10 +3,10 @@ layout: page
 title: "Teaching"
 ---
 # Courses
-[**POLS 602, Quantitative Political Analysis**](https://github.com/MLBurnham/pols_602)
+[**POLS 602, Quantitative Political Analysis**](https://github.com/MLBurnham/pols_602)  
 *Texas A&M, Fall 2025*
 
-[**POLS 306, Polarization in the United States**](https://drive.google.com/file/d/1IZlo9WcDEzOAy58iFeTcnP-AId9HYKag/view?usp=share_link)
+[**POLS 306, Polarization in the United States**](https://drive.google.com/file/d/1IZlo9WcDEzOAy58iFeTcnP-AId9HYKag/view?usp=share_link)  
 *Texas A&M, Fall 2025*
 
 [**Social Data Analytics 496**](https://github.com/MLBurnham/SoDA_496/blob/main/SoDA_Syllabus.pdf)  
