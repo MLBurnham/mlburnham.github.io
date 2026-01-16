@@ -1,6 +1,6 @@
 title: "Michael L. Burnham"
 author: "Mike Burnham"
-description: "Princeton University"
+description: "Texas A&M University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "data.md", title: "Data"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:mb7336@princeton.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:mlb6496@tamu.edu"}
   - {title: Github, icon: github, url: "https://github.com/MLBurnham"}
   - {title: Twitter, icon: twitter-square, url: "https://twitter.com/ML_Burn"}
 
